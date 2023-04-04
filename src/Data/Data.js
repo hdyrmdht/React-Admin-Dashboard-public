@@ -18,18 +18,22 @@ export const SidebarData = [
   {
     icon:UilClipboardAlt,
     heading: "Dashboard",
+    route:"/"
   },
   {
     icon:  UilEstate,
     heading: "Warehouses",
+    route:"/"
   },
   {
     icon: UilUsersAlt,
     heading: "Supervisor",
+    route:"/"
   },
   {
     icon: UilPackage,
-    heading: 'Products'
+    heading: 'Products',
+    route:"/"
   },
  
 ];
